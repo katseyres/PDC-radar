@@ -1,6 +1,6 @@
 /*
   Script des capteurs a ultrason
-    > Ce script envoie un signal a partir du Pin Trigger du premier capteur et lit le signal recu via Echo 
+    > Ce script envoie un signal a partir du Pin Trigger du premier capteur et lit le signal recu via Echo coucou
 */
 
 int trPin[] = {7, 5, 3}; // position des trigger sur la board <Pin>
