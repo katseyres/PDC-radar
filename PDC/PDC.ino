@@ -131,7 +131,6 @@ float variance(){
     return variance;
 }
 
-
 float checkVariance(){
     if(variance() > varianceError){
       Serial.println("Modifying data, variance not acceptable !");
